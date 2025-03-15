@@ -23,7 +23,7 @@ Ensure **Python 3.x** is installed.
 ### ** Steps to Run the Project**
 1. Clone this repository or download `BMS.py`:
    ```bash
-   git clone https://github.com/hassanimtiaz158/Bakery-Management-System.git
+   git clone https://github.com/Hasan-Ali158/Bakery-Management-System.git
    cd Bakery-Management-System
 
 
