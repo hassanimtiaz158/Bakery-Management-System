@@ -23,5 +23,32 @@ Ensure **Python 3.x** is installed.
 ### ** Steps to Run the Project**
 1. Clone this repository or download `BMS.py`:
    ```bash
-   git clone https://github.com/Hasan-Ali/Bakery-Management-System.git
+   git clone https://github.com/hassanimtiaz158/Bakery-Management-System.git
    cd Bakery-Management-System
+
+
+##  Menu & Pricing
+
+| Item      | Price (Rs) |
+|-----------|-----------|
+|  Pizza   | 100       |
+|  Burger  | 80        |
+|  Sandwich | 60       |
+|  Shawarma | 70       |
+|  Drink   | 30        |
+
+---
+
+##  Technologies Used
+
+-  **Python**  
+-  **Tkinter (for GUI)**  
+-  **Messagebox (for notifications)**  
+
+---
+
+## Contact
+
+ **Email:** [hassanimtiaz158@gmail.com](mailto:hassanimtiaz158@gmail.com)  
+ **GitHub:** [Hasan-Ali158](https://github.com/Hasan-Ali158)  
+
